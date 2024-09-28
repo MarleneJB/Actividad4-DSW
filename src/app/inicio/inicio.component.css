@@ -1,0 +1,35 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.jumbotron {
+  background-image: url('/src/assets/Fondo.png');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 40% 50px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.jumbotron h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.jumbotron p {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+
