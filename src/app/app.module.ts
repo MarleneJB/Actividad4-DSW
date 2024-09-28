@@ -9,6 +9,7 @@ import { NavComponent } from './nav/nav.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeroComponent } from './hero/hero.component';
 import { SummaryComponent } from './summary/summary.component';
+import { XmlDownloadComponent } from './xml-download/xml-download.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { SummaryComponent } from './summary/summary.component';
     FooterComponent,
     HeroComponent,
     SummaryComponent,
+    XmlDownloadComponent,
   ],
   imports: [
     BrowserModule,
